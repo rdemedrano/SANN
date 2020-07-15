@@ -12,7 +12,7 @@ agnostic neural networks with state of the art models. Our results show that the
 needed in most cases. In order to validate this counterintuitive result, we perform thorough experiments over ten different datasets related to
 sustainable mobility and air quality, substantiating our conclusions on real world problems with direct implications for public health and economy.
 
-## Model
+## Spatial Agnostic Neural Networks
 ![alt text](images/sann_6.png "sann")
 
 ## Requirements
@@ -22,3 +22,6 @@ sustainable mobility and air quality, substantiating our conclusions on real wor
 ## Data
 Data consist in a 3D tensor. In the csv file, rows for time dimension and columns for spatial points. 
 During training, channels for number of features-series, height for time lags and width for spatial points.
+
+In general, data presented in the experiments have been widely used in the literature. All datasets are publicly available.
+To exemplify data format, Acoustic Pollution dataset can be found in *data* folder.
