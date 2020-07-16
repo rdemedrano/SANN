@@ -1,6 +1,6 @@
 # On the Inclusion of Spatial Information for Spatio-Temporal Neural Networks
 
-Official code for the paper On the Inclusion of Spatial Information forSpatio-Temporal Neural Networks
+Official code for the paper On the Inclusion of Spatial Information for Spatio-Temporal Neural Networks
 - [Arxiv preprint](https://arxiv.org/abs/2007.07559).
 
 ## Abtract
