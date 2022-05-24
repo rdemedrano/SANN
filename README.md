@@ -2,6 +2,7 @@
 
 Official code for the paper On the Inclusion of Spatial Information for Spatio-Temporal Neural Networks
 - [Arxiv preprint](https://arxiv.org/abs/2007.07559).
+- [Journal extension](https://link.springer.com/article/10.1007/s00521-021-06111-6).
 
 ## Abtract
 When confronting a spatio-temporal regression, it is sensible to feed the model with any available *prior* information about the spatial 
